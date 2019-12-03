@@ -1,0 +1,25 @@
+{
+  "name": "monashbootcampweek7",
+  "version": "1.0.0",
+  "description": "Monash Bootcamp for Week 7 # Application Component breakdown 1. Inquirer questionaire     * Username     * favorite background color",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "inquirer": "^7.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryshen225/MonashBootcampWeek7.git"
+  },
+  "author": "Harry Shen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harryshen225/MonashBootcampWeek7/issues"
+  },
+  "homepage": "https://github.com/harryshen225/MonashBootcampWeek7#readme"
+}
